@@ -1,0 +1,10 @@
+#gmst_acf_form { width: 60%;}
+#gmst_acf_form div.row{ width: 99%;}
+#gmst_acf_form div.form-group{ display: table; margin: 10px 0;}
+#gmst_acf_form div.form-group label { display: block; font-weight: bold;}
+#gmst_acf_form div.form-group label small { display: block; font-weight: normal;}
+#gmst_acf_form div.form-group .col-2{ display: table-cell; width: 33%; padding-right: 5px}
+#gmst_acf_form div.form-group .col-10{ display: table-cell; width: 65%}
+#gmst_acf_form fieldset { border: 1px solid #ccc; width: 100%; padding: 0 5px;}
+#gmst_acf_form input[type=text] { width: 100%; }
+#gmst_acf_form textarea { width: 100%; height: 85px }

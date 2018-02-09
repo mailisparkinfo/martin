@@ -1,0 +1,637 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upsteam booking system\n"
+"POT-Creation-Date: 2017-10-04 19:28+0300\n"
+"PO-Revision-Date: 2017-10-04 19:28+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: upsteam-booking-system.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/init.php:30
+msgid "USBS - Booking system"
+msgstr "USBS - Broneerimissüsteem"
+
+#: includes/init.php:31
+msgid "USBS"
+msgstr "USBS"
+
+#: includes/init.php:43
+msgid "USBS - Booking system options"
+msgstr "USBS - Broneerimissüsteemi seaded"
+
+#: includes/init.php:44
+#, fuzzy
+#| msgid "Options"
+msgid "USBS - Options"
+msgstr "Seaded"
+
+#: includes/post-types/usbs-bookings.php:22
+#: includes/post-types/usbs-bookings.php:25
+#: includes/post-types/usbs-bookings.php:31
+msgid "Bookings"
+msgstr "Broneeringud"
+
+#: includes/post-types/usbs-bookings.php:23
+msgid "Booking "
+msgstr "Broneering"
+
+#: includes/post-types/usbs-bookings.php:24
+msgid "Edit booking"
+msgstr "Muuda broneeringut"
+
+#: includes/post-types/usbs-bookings.php:26
+msgid "View booking"
+msgstr "Vaata broneeringut"
+
+#: includes/post-types/usbs-bookings.php:27
+#: includes/post-types/usbs-clients-addresses.php:29
+#: includes/post-types/usbs-clients-cars.php:29
+#: includes/post-types/usbs-packages-trial.php:29
+#: includes/post-types/usbs-packages-vip.php:29
+#: includes/post-types/usbs-services.php:29
+msgid "Search"
+msgstr "Otsi"
+
+#: includes/post-types/usbs-bookings.php:28
+#: includes/post-types/usbs-clients-addresses.php:30
+#: includes/post-types/usbs-clients-cars.php:30
+#: includes/post-types/usbs-packages-trial.php:30
+#: includes/post-types/usbs-packages-vip.php:30
+#: includes/post-types/usbs-services.php:30
+msgid "Nothing found"
+msgstr "Vasteid ei leitud"
+
+#: includes/post-types/usbs-bookings.php:29
+#: includes/post-types/usbs-clients-addresses.php:31
+#: includes/post-types/usbs-clients-cars.php:31
+#: includes/post-types/usbs-packages-trial.php:31
+#: includes/post-types/usbs-packages-vip.php:31
+#: includes/post-types/usbs-services.php:31
+msgid "Nothing found from trash"
+msgstr "Midagi ei leitud Prügikastist"
+
+#: includes/post-types/usbs-bookings.php:30
+#: includes/post-types/usbs-clients-addresses.php:32
+#: includes/post-types/usbs-clients-cars.php:32
+#: includes/post-types/usbs-packages-trial.php:32
+#: includes/post-types/usbs-packages-vip.php:32
+#: includes/post-types/usbs-services.php:32
+msgid " "
+msgstr ""
+
+#: includes/post-types/usbs-clients-addresses.php:22
+#: includes/post-types/usbs-clients-addresses.php:27
+#: includes/post-types/usbs-clients-addresses.php:33
+msgid "Clients addresses"
+msgstr "Klientide aadressid"
+
+#: includes/post-types/usbs-clients-addresses.php:23
+msgid "Client address "
+msgstr "Kliendi aadress"
+
+#: includes/post-types/usbs-clients-addresses.php:24
+#: includes/post-types/usbs-clients-cars.php:24
+#: includes/post-types/usbs-packages-trial.php:24
+#: includes/post-types/usbs-packages-vip.php:24
+#: includes/post-types/usbs-services.php:24
+msgid "Add new"
+msgstr "Lisa uus"
+
+#: includes/post-types/usbs-clients-addresses.php:25
+#: includes/post-types/usbs-clients-cars.php:25
+#: includes/post-types/usbs-packages-trial.php:25
+#: includes/post-types/usbs-packages-vip.php:25
+#: includes/post-types/usbs-services.php:25
+msgid "Edit"
+msgstr "Muuda"
+
+#: includes/post-types/usbs-clients-addresses.php:26
+msgid "New address"
+msgstr "Uus aadress"
+
+#: includes/post-types/usbs-clients-addresses.php:28
+#: includes/post-types/usbs-clients-cars.php:28
+#: includes/post-types/usbs-packages-trial.php:28
+#: includes/post-types/usbs-packages-vip.php:28
+#: includes/post-types/usbs-services.php:28
+msgid "View"
+msgstr "Vaata"
+
+#: includes/post-types/usbs-clients-cars.php:22
+#: includes/post-types/usbs-clients-cars.php:27
+#: includes/post-types/usbs-clients-cars.php:33
+msgid "Clients cars"
+msgstr "Klientide autod"
+
+#: includes/post-types/usbs-clients-cars.php:23
+msgid "Client car "
+msgstr "Kliendi auto"
+
+#: includes/post-types/usbs-clients-cars.php:26
+msgid "New car"
+msgstr "Uus auto"
+
+#: includes/post-types/usbs-clients-cars.php:58
+msgid "Car type"
+msgstr "Auto tüüp"
+
+#: includes/post-types/usbs-clients-cars.php:59
+msgid "Car model"
+msgstr "Auto mudel"
+
+#: includes/post-types/usbs-clients-cars.php:60
+msgid "Car mark"
+msgstr "Auto mark"
+
+#: includes/post-types/usbs-clients-cars.php:61
+msgid "Car plate"
+msgstr "Auto numbrimärk"
+
+#: includes/post-types/usbs-clients-cars.php:62
+msgid "Car color"
+msgstr "Auto värv"
+
+#: includes/post-types/usbs-packages-trial.php:22
+#: includes/post-types/usbs-packages-trial.php:27
+#: includes/post-types/usbs-packages-trial.php:33
+msgid "Trial packages"
+msgstr "Proovi paketid"
+
+#: includes/post-types/usbs-packages-trial.php:23
+msgid "Trial package "
+msgstr "Proovi pakett"
+
+#: includes/post-types/usbs-packages-trial.php:26
+msgid "New trial package"
+msgstr "Uus proovi pakett"
+
+#: includes/post-types/usbs-packages-trial.php:58
+#: includes/post-types/usbs-packages-vip.php:58
+#: includes/post-types/usbs-services.php:58
+msgid "Price"
+msgstr "Hind"
+
+#: includes/post-types/usbs-packages-trial.php:59
+#: includes/post-types/usbs-packages-vip.php:59
+#: includes/post-types/usbs-services.php:59
+msgid "Time max"
+msgstr "Maksimaalne aeg"
+
+#: includes/post-types/usbs-packages-trial.php:60
+#: includes/post-types/usbs-packages-vip.php:60
+#: includes/post-types/usbs-services.php:60
+msgid "Time min"
+msgstr "Minimaalne aeg"
+
+#: includes/post-types/usbs-packages-trial.php:78
+#: includes/post-types/usbs-packages-trial.php:82
+#: includes/post-types/usbs-packages-vip.php:78
+#: includes/post-types/usbs-packages-vip.php:82
+#: includes/post-types/usbs-services.php:78
+#: includes/post-types/usbs-services.php:82
+msgid " minutes"
+msgstr " minutit"
+
+#: includes/post-types/usbs-packages-vip.php:22
+#: includes/post-types/usbs-packages-vip.php:27
+#: includes/post-types/usbs-packages-vip.php:33
+msgid "VIP packages"
+msgstr "VIP paketid"
+
+#: includes/post-types/usbs-packages-vip.php:23
+msgid "VIP package "
+msgstr "VIP pakett"
+
+#: includes/post-types/usbs-packages-vip.php:26
+msgid "New VIP package"
+msgstr "Uus VIP pakett"
+
+#: includes/post-types/usbs-services.php:22
+#: includes/post-types/usbs-services.php:27
+#: includes/post-types/usbs-services.php:33
+msgid "Services"
+msgstr "Teenused"
+
+#: includes/post-types/usbs-services.php:23
+msgid "Service "
+msgstr "Teenus"
+
+#: includes/post-types/usbs-services.php:26
+msgid "New service"
+msgstr "Uus teenus"
+
+#: plugins/usbs-fb-login/nextend-facebook-connect.php:138
+msgid "Your Facebook profile is successfully unlinked from your account."
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-connect.php:304
+msgid ""
+"Your Facebook profile is successfully linked with your account. Now you can "
+"sign in with Facebook easily."
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-connect.php:307
+msgid ""
+"This Facebook profile is already linked with other account. Linking process "
+"failed!"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-connect.php:407
+#: plugins/usbs-google-login/nextend-google-connect.php:359
+msgid "OR"
+msgstr "VÕI"
+
+#: plugins/usbs-fb-login/nextend-facebook-connect.php:474
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:157
+#: plugins/usbs-google-login/nextend-google-connect.php:421
+#: plugins/usbs-google-login/nextend-google-settings.php:135
+msgid "Settings"
+msgstr "Seaded"
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:64
+#: plugins/usbs-google-login/nextend-google-settings.php:65
+msgid "Configuration updated"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:64
+#: plugins/usbs-google-login/nextend-google-settings.php:65
+msgid "Error while saving options"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:96
+msgid ""
+"This plugins helps you create Facebook login and register buttons. The login "
+"and register process only takes one click and you can fully customize the "
+"buttons with images and other assets."
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:97
+#: plugins/usbs-google-login/nextend-google-settings.php:76
+msgid "Setup"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:99
+msgid ""
+"<ol><li><a href=\"https://developers.facebook.com/apps/\" target=\"_blank"
+"\">Create a facebook app!</a></li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:100
+msgid ""
+"<li>Don't choose from the listed options, but click on <b>advanced setup</b> "
+"in the bottom.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:101
+msgid ""
+"<li>Choose an <b>app name</b>, and a <b>category</b>, then click on "
+"<b>Create App ID</b>.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:102
+msgid "<li>Pass the security check.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:103
+msgid "<li>Go to the <b>Settings</b> of the application.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:104
+msgid "<li>Click on <b>+ Add Platform</b>, and choose <b>Website</b>.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:105
+msgid "<li>Give your website's address at the <b>Site URL</b> field with: <b>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:106
+msgid "<li>Give a <b>Contact Email</b> and click on <b>Save Changes</b>.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:107
+msgid ""
+"<li>Go to <b>Status & Review</b>, and change the availability for the "
+"general public to <b>YES</b>.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:108
+msgid ""
+"<li>Go back to the <b>Settings</b>, and copy the <b>App ID</b>, and <b>APP "
+"Secret</b>, which you have to copy and paste below.</li>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:109
+#: plugins/usbs-google-login/nextend-google-settings.php:87
+msgid "<li><b>Save changes!</b></li></ol>"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:113
+#: plugins/usbs-google-login/nextend-google-settings.php:91
+msgid "Usage"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:114
+#: plugins/usbs-google-login/nextend-google-settings.php:92
+msgid "Simple link"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:115
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:118
+#: plugins/usbs-google-login/nextend-google-settings.php:93
+#: plugins/usbs-google-login/nextend-google-settings.php:96
+msgid "&lt;a href=\""
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:117
+#: plugins/usbs-google-login/nextend-google-settings.php:95
+msgid "Image button"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:120
+#: plugins/usbs-google-login/nextend-google-settings.php:98
+msgid "Note"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:121
+msgid ""
+"If the Facebook user's email address already used by another member of your "
+"site, the facebook profile will be automatically linked to the existing "
+"profile!"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:132
+#: plugins/usbs-google-login/nextend-google-settings.php:110
+msgid "About this plugin"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:135
+msgid "Check the related <b>blog post</b>!"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:137
+msgid "Nextend Facebook Connect"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:139
+#: plugins/usbs-google-login/nextend-google-settings.php:117
+msgid "Nextend  plugins at WordPress.org"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:166
+msgid "Facebook App ID:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:173
+msgid "Facebook App Secret:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:180
+#: plugins/usbs-google-login/nextend-google-settings.php:165
+#: plugins/usbs-google-login/nextend-google-settings.php:173
+msgid "New user prefix:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:188
+#: plugins/usbs-google-login/nextend-google-settings.php:181
+msgid "Fixed redirect url for login:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:196
+#: plugins/usbs-google-login/nextend-google-settings.php:189
+msgid "Fixed redirect url for register:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:204
+#: plugins/usbs-google-login/nextend-google-settings.php:197
+msgid "Load button stylesheet:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:213
+#: plugins/usbs-google-login/nextend-google-settings.php:206
+msgid "Login button:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:221
+#: plugins/usbs-google-login/nextend-google-settings.php:214
+msgid "Link account button:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:229
+#: plugins/usbs-google-login/nextend-google-settings.php:222
+msgid "Unlink account button:"
+msgstr ""
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:244
+#: plugins/usbs-google-login/nextend-google-settings.php:238
+msgid "Save Changes"
+msgstr "Salvesta muudatused"
+
+#: plugins/usbs-fb-login/nextend-facebook-settings.php:262
+msgid "Nextend FB Connect"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-connect.php:130
+msgid "Your Google profile is successfully unlinked from your account."
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-connect.php:269
+msgid ""
+"Your Google profile is successfully linked with your account. Now you can "
+"sign in with Google easily."
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-connect.php:272
+msgid ""
+"This Google profile is already linked with other account. Linking process "
+"failed!"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:75
+msgid ""
+"This plugins helps you create Google login and register buttons. The login "
+"and register process only takes one click and you can fully customize the "
+"buttons with images and other assets."
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:78
+msgid ""
+"<ol><li><a href=\"https://www.google.com/accounts/ManageDomains\" target="
+"\"_blank\">Add your domain to Google system!</a></li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:79
+msgid ""
+"<li>The bottom of the page will contain a link to your domain. Click on it "
+"and follow Google's veryfication steps.</li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:80
+msgid ""
+"<li>After you are done, <a href=\"https://code.google.com/apis/console\" "
+"target=\"_blank\">We have to create and API access.</a></li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:81
+msgid ""
+"<li>Create a new API access with your product name.<br><img src=\"http://www."
+"nextendweb.com/wp-content/uploads/2012/10/googleapi11.png\" /></li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:82
+msgid "<li>Search for the Google+ API row and enable the service</li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:83
+msgid ""
+"<li>Then click on the API access panel and create and OAuth 2 clien ID!"
+"<br><img src=\"http://www.nextendweb.com/wp-content/uploads/2012/10/"
+"googleapi21.png\" /></li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:84
+msgid "<li>Product name can be anything then click on next.</li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:85
+msgid "<li>Click on the <b>more options</b> link and copy and paste <b>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:86
+msgid ""
+"<li>Now you should use the values in the fields below.<br><img src=\"http://"
+"www.nextendweb.com/wp-content/uploads/2012/10/googleapi4.png\" /></li>"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:99
+msgid ""
+"If the google user's email address already used by another member of your "
+"site, the google profile will be automatically linked to the existing "
+"profile!"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:113
+msgid "Check the realted <b>blog post</b>!"
+msgstr ""
+
+#: plugins/usbs-google-login/nextend-google-settings.php:115
+#: plugins/usbs-google-login/nextend-google-settings.php:256
+msgid "Nextend Google Connect"
+msgstr "Sisene googlega"
+
+#: plugins/usbs-google-login/nextend-google-settings.php:144
+msgid "Google Client ID:"
+msgstr "Google'i kliendi ID:"
+
+#: plugins/usbs-google-login/nextend-google-settings.php:151
+msgid "Google Client Secret:"
+msgstr "Google'i kliendi saladus:"
+
+#: plugins/usbs-google-login/nextend-google-settings.php:158
+msgid "Google API key:"
+msgstr "Google'i API-võti:"
+
+#: templates/public/booking/booking-step-1.php:17
+msgid "Choose service"
+msgstr "Vali teenus"
+
+#: templates/public/booking/booking-step-1.php:62
+msgid "Service includes"
+msgstr "Teenus sisaldab"
+
+#: templates/public/booking/booking-step-1.php:65
+#: templates/public/booking/booking-step-1.php:69
+msgid "Choose additional services"
+msgstr "Vali teenused"
+
+#: templates/public/booking/booking-step-1.php:106
+msgid "Save services"
+msgstr "Salvesta teenused"
+
+#: templates/public/booking/booking-step-1.php:123
+#: templates/public/booking/booking-step-2.php:26
+#: templates/public/booking/booking-step-3.php:89
+msgid "Next"
+msgstr "Järgmine"
+
+#: templates/public/booking/booking-step-2.php:16
+msgid "Where are we coming?"
+msgstr "Kuhu me tuleme?"
+
+#: templates/public/booking/booking-step-2.php:25
+#: templates/public/booking/booking-step-3.php:88
+msgid "Back"
+msgstr "Tagasi"
+
+#: templates/public/booking/booking-step-3.php:16
+msgid "Which car we wash?"
+msgstr "Millist autot me peseme?"
+
+#: templates/public/booking/booking-step-3.php:19
+#: templates/public/booking/booking-step-3.php:23
+msgid "Add a car"
+msgstr "Lisa auto"
+
+#: templates/public/booking/booking-step-3.php:34
+msgid "Add car"
+msgstr "Lisa auto"
+
+#: templates/public/booking/booking-step-3.php:45
+msgid "First Name *"
+msgstr "Eesnimi *"
+
+#: templates/public/booking/booking-step-3.php:49
+msgid "Last Name *"
+msgstr "Perekonnanimi *"
+
+#: templates/public/booking/booking-step-3.php:55
+msgid "Phone number *"
+msgstr "Telefoninumber *"
+
+#: templates/public/booking/booking-step-3.php:59
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: templates/public/booking/booking-step-3.php:72
+msgid "Company name"
+msgstr "Ettevõtte nimi"
+
+#: templates/public/booking/booking-step-3.php:76
+msgid "Registration code"
+msgstr "Registrikood"
+
+#: templates/public/booking/booking-step-3.php:82
+msgid "Address"
+msgstr "Aadress"
+
+#: upsteam-booking-system.php:52
+msgid ""
+"To activate Upsteam Booking System you need a Advanced custom fields pro "
+"plugin to be installed and activated."
+msgstr ""
+"Upsteami broneerimissüsteemi aktiveerimiseks peate installima ja aktiveerima "
+"Advanced custom fields pro plugina."
+
+#. Plugin Name of the plugin/theme
+msgid "Upsteam booking system"
+msgstr "Upsteami broneerimissüsteem"
+
+#. Description of the plugin/theme
+msgid "Booking system for upsteam website"
+msgstr "Broneerimissüsteem upsteam veebilehele"
+
+#~ msgid "Add address"
+#~ msgstr "Lisa aadress"

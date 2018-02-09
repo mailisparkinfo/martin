@@ -1,0 +1,75 @@
+<svg width="876px" height="199px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="804.434 0.1084 804.434 1.1084 0.1763 1.1084 0.1763 0.1084 804.434 0.1084"></polygon>
+        <polygon id="path-3" points="0 202 875.434 202 875.434 0.746 0 0.746"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="teenused" transform="translate(-312.000000, -1303.000000)">
+            <g id="Page-1" transform="translate(312.000000, 1300.203175)">
+                <g id="Group-14" transform="translate(0.000000, 0.254000)">
+                    <g id="Group-3" transform="translate(71.000000, 66.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M0.1763,0.1084 L804.4343,0.1084" id="Stroke-1" stroke="#002144" stroke-dasharray="4.008,4.008" mask="url(#mask-2)"></path>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <text id="SISE-VÄLIS" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" fill="#70E4A1">
+                        <tspan x="0" y="22.746314">SISE-VÄLIS</tspan>
+                    </text>
+                    <text id="VÄLIS" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" letter-spacing="-0.044" fill="#39A4FF">
+                        <tspan x="291.962" y="22.746314">VÄLIS</tspan>
+                    </text>
+                    <text id="1.-KUU" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="22.9883" font-weight="normal" fill="#002147">
+                        <tspan x="225.9727" y="199.747872">1. KUU</tspan>
+                    </text>
+                    <text id="2.-KUU" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="22.9883" font-weight="normal" fill="#002147">
+                        <tspan x="620.497905" y="199.747872">2. KUU</tspan>
+                    </text>
+                    <path d="M83.1572,66.4229 C83.1572,74.5239 76.5912,81.0899 68.4902,81.0899 C60.3902,81.0899 53.8242,74.5239 53.8242,66.4229 C53.8242,58.3229 60.3902,51.7569 68.4902,51.7569 C76.5912,51.7569 83.1572,58.3229 83.1572,66.4229" id="Fill-5" fill="#70E4A1" mask="url(#mask-4)"></path>
+                    <path d="M211.5854,66.1084 C211.5854,74.2094 205.0194,80.7754 196.9184,80.7754 C188.8184,80.7754 182.2524,74.2094 182.2524,66.1084 C182.2524,58.0084 188.8184,51.4424 196.9184,51.4424 C205.0194,51.4424 211.5854,58.0084 211.5854,66.1084" id="Fill-6" fill="#002147" mask="url(#mask-4)"></path>
+                    <path d="M340.0137,66.4229 C340.0137,74.5239 333.4477,81.0899 325.3467,81.0899 C317.2467,81.0899 310.6807,74.5239 310.6807,66.4229 C310.6807,58.3229 317.2467,51.7569 325.3467,51.7569 C333.4477,51.7569 340.0137,58.3229 340.0137,66.4229" id="Fill-7" fill="#39A4FF" mask="url(#mask-4)"></path>
+                    <path d="M468.4419,66.4229 C468.4419,74.5239 461.8759,81.0899 453.7759,81.0899 C445.6749,81.0899 439.1089,74.5239 439.1089,66.4229 C439.1089,58.3229 445.6749,51.7569 453.7759,51.7569 C461.8759,51.7569 468.4419,58.3229 468.4419,66.4229" id="Fill-8" fill="#002147" mask="url(#mask-4)"></path>
+                    <path d="M596.8696,66.4229 C596.8696,74.5239 590.3036,81.0899 582.2036,81.0899 C574.1036,81.0899 567.5376,74.5239 567.5376,66.4229 C567.5376,58.3229 574.1036,51.7569 582.2036,51.7569 C590.3036,51.7569 596.8696,58.3229 596.8696,66.4229" id="Fill-9" fill="#70E4A1" mask="url(#mask-4)"></path>
+                    <path d="M725.2983,66.1084 C725.2983,74.2094 718.7323,80.7754 710.6313,80.7754 C702.5313,80.7754 695.9653,74.2094 695.9653,66.1084 C695.9653,58.0084 702.5313,51.4424 710.6313,51.4424 C718.7323,51.4424 725.2983,58.0084 725.2983,66.1084" id="Fill-10" fill="#002147" mask="url(#mask-4)"></path>
+                    <path d="M853.7261,66.4229 C853.7261,74.5239 847.1601,81.0899 839.0601,81.0899 C830.9601,81.0899 824.3941,74.5239 824.3941,66.4229 C824.3941,58.3229 830.9601,51.7569 839.0601,51.7569 C847.1601,51.7569 853.7261,58.3229 853.7261,66.4229" id="Fill-11" fill="#39A4FF" mask="url(#mask-4)"></path>
+                    <polyline id="Stroke-12" stroke="#002144" mask="url(#mask-4)" points="455.4604 117.0771 455.4604 146.0771 68.4904 146.0771 68.4904 117.0771"></polyline>
+                    <polyline id="Stroke-13" stroke="#002144" mask="url(#mask-4)" points="842.4302 117.0771 842.4302 146.0771 455.4602 146.0771 455.4602 117.0771"></polyline>
+                    <text id="SISE-VÄLIS" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" fill="#70E4A1">
+                        <tspan x="513.6846" y="22.746314">SISE-VÄLIS</tspan>
+                    </text>
+                    <text id="X" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" fill="#002147">
+                        <tspan x="702.4456" y="22.746314">X</tspan>
+                    </text>
+                    <text id="X" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" fill="#002147">
+                        <tspan x="444.6846" y="22.746314">X</tspan>
+                    </text>
+                    <text id="X" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" fill="#002147">
+                        <tspan x="189.2006" y="22.746314">X</tspan>
+                    </text>
+                    <text id="VÄLIS" mask="url(#mask-4)" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" letter-spacing="-0.044" fill="#39A4FF">
+                        <tspan x="803.6686" y="22.746314">VÄLIS</tspan>
+                    </text>
+                </g>
+                <text id="1.-nädal" font-family=".AppleSystemUIFont" font-size="16" font-weight="normal" fill="#002147">
+                    <tspan x="39.3164" y="105.995871">1. nädal</tspan>
+                </text>
+                <text id="2.-nädal" font-family=".AppleSystemUIFont" font-size="16" font-weight="normal" fill="#002147">
+                    <tspan x="167.3164" y="105.995871">2. nädal</tspan>
+                </text>
+                <text id="3.-nädal" font-family=".AppleSystemUIFont" font-size="16" font-weight="normal" fill="#002147">
+                    <tspan x="292.8364" y="105.995871">3. nädal</tspan>
+                </text>
+                <text id="4.-nädal" font-family=".AppleSystemUIFont" font-size="16" font-weight="normal" fill="#002147">
+                    <tspan x="421.6684" y="105.995871">4. nädal</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

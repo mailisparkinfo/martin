@@ -1,0 +1,61 @@
+
+<svg width="875px" height="199px" viewBox="0 0 875 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="proovi" transform="translate(-106.000000, -259.000000)">
+            <g id="Layer_5" transform="translate(105.000000, 256.000000)">
+                <path d="M71.1,68.8 L875.4,68.8" id="Shape" stroke="#FFFFFF" stroke-dasharray="4.008,4.008"></path>
+                <text id="SISE-VÄLIS" fill="#70E4A1" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="0.5968" y="23.9295">SISE-VÄLIS</tspan>
+                </text>
+                <text id="1.-KUU" fill="#FFFFFF" font-family="Helvetica" font-size="22.9883" font-weight="normal">
+                    <tspan x="226.653" y="200.9208">1. KUU</tspan>
+                </text>
+                <text id="2.-KUU" fill="#FFFFFF" font-family="Helvetica" font-size="22.9883" font-weight="normal">
+                    <tspan x="621.1769" y="200.9208">2. KUU</tspan>
+                </text>
+                <circle id="Oval" fill="#70E4A1" fill-rule="nonzero" cx="69.2" cy="69.1" r="14.7"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="197.6" cy="68.8" r="14.7"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="326" cy="69.1" r="14.7"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="454.5" cy="69.1" r="14.7"></circle>
+                <circle id="Oval" fill="#70E4A1" fill-rule="nonzero" cx="582.9" cy="69.1" r="14.7"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="711.3" cy="68.8" r="14.7"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="839.7" cy="69.1" r="14.7"></circle>
+                <polyline id="Shape" stroke="#FFFFFF" points="456.1 119.8 456.1 148.8 69.2 148.8 69.2 119.8"></polyline>
+                <polyline id="Shape" stroke="#FFFFFF" points="843.1 119.8 843.1 148.8 456.1 148.8 456.1 119.8"></polyline>
+                <text id="SISE-VÄLIS" fill="#70E4A1" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="515.2643" y="23.9295">SISE-VÄLIS</tspan>
+                </text>
+                <text id="1.-nädal" fill="#FFFFFF" font-family="Helvetica" font-size="16" font-weight="normal">
+                    <tspan x="39.3795" y="108.578">1. nädal</tspan>
+                </text>
+                <text id="2.-nädal" fill="#FFFFFF" font-family="Helvetica" font-size="16" font-weight="normal">
+                    <tspan x="167.3795" y="108.578">2. nädal</tspan>
+                </text>
+                <text id="3.-nädal" fill="#FFFFFF" font-family="Helvetica" font-size="16" font-weight="normal">
+                    <tspan x="292.8961" y="108.578">3. nädal</tspan>
+                </text>
+                <text id="4.-nädal" fill="#FFFFFF" font-family="Helvetica" font-size="16" font-weight="normal">
+                    <tspan x="421.7252" y="108.578">4. nädal</tspan>
+                </text>
+                <text id="X" fill="#FFFFFF" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="702.3658" y="23.9295">X</tspan>
+                </text>
+                <text id="X" fill="#FFFFFF" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="318.5519" y="23.9295">X</tspan>
+                </text>
+                <text id="X" fill="#FFFFFF" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="830.2369" y="23.9295">X</tspan>
+                </text>
+                <text id="X" fill="#FFFFFF" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="446.6061" y="23.9295">X</tspan>
+                </text>
+                <text id="X" fill="#FFFFFF" font-family="Helvetica" font-size="23" font-weight="normal">
+                    <tspan x="190.1188" y="23.9295">X</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

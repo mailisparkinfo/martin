@@ -1,0 +1,127 @@
+.ui-datepicker {
+	font-size: 90%;
+	border: 0;
+	/* border-color: #01f1f1; */
+	border: 0;
+}
+
+.ui-widget {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	background: #39a4ff;
+	border: none;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	width: 100%;
+}
+
+.ui-datepicker {
+	padding: 0 10px 10px 10px;
+	width: auto;
+	border: 0;
+	min-width: 250px;
+	max-width: 250px;
+	width: 250px;
+}
+
+.ui-datepicker-header {
+	border: none;
+	background: transparent;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+.ui-datepicker-header .ui-state-hover {
+	background: transparent;
+	border-color: transparent;
+	cursor: pointer;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+}
+
+.ui-datepicker .ui-datepicker-title {
+	margin-top: .4em;
+	margin-bottom: .3em;
+	color: #ffffff;
+}
+
+.ui-datepicker .ui-datepicker-prev-hover,
+.ui-datepicker .ui-datepicker-next-hover,
+.ui-datepicker .ui-datepicker-next,
+.ui-datepicker .ui-datepicker-prev {
+	top: .9em;
+	border:none;
+}
+
+.ui-datepicker .ui-datepicker-prev-hover {
+	left: 2px;
+}
+
+.ui-datepicker .ui-datepicker-next-hover {
+	right: 2px;
+}
+
+.ui-datepicker .ui-datepicker-next span,
+.ui-datepicker .ui-datepicker-prev span {
+	background-image: url(images/ui-icons_ffffff_256x240.png);
+	background-position: -32px 0;
+	margin-top: 0;
+	top: 0;
+	font-weight: normal;
+	position: relative;
+	width: 15px;
+	height: 15px;
+}
+
+.ui-datepicker .ui-datepicker-prev span {
+	background-position: -96px 0;
+}
+
+.ui-datepicker table {
+	margin: 0;
+	border: 0;
+}
+
+.ui-datepicker th {
+	padding: 1em 0;
+	color: #0c0f2f;
+	font-size: 13px;
+	font-weight: normal;
+	border: none;
+	border-top: 1px solid #0c0f2f;
+	border-bottom: 1px solid #0c0f2f;
+}
+.ui-datepicker td {
+	background: #39a4ff;
+	border: none;
+	/* padding: 0!important; */
+}
+
+.ui-state-default {
+	background: transparent;
+	border: none;
+	text-align: center;
+	padding: .5em;
+	margin: 0;
+	font-weight: normal;
+	color: #ffffff;
+	text-align: center!important;
+	font-size: 16px;
+}
+.ui-state-disabled  {
+	opacity: 1;
+}
+.ui-state-disabled .ui-state-default {
+	color: #0c0f2f;
+}
+
+.ui-state-active,
+.ui-state-hover {
+	background: #0c0f2f;
+	border-radius: 50px;
+	text-align: center!important;
+}
+.ui-datepicker td span, .ui-datepicker td a:hover, .ui-datepicker td span, .ui-datepicker td a:focus {
+	color: #ffffff;
+}

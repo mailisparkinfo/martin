@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Personalize Login\n"
+"POT-Creation-Date: 2017-09-11 18:37+0300\n"
+"PO-Revision-Date: 2017-09-11 18:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: personalize-login.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: personalize-login.php:70 templates/login_form.php:4
+#: templates/login_form.php:50 templates/login_form.php:71
+msgid "Sign In"
+msgstr "Logi sisse"
+
+#: personalize-login.php:74 templates/password_lost_form.php:3
+msgid "Forgot Your Password?"
+msgstr "Unustasid parooli?"
+
+#: personalize-login.php:78 templates/password_reset_form.php:3
+msgid "Pick a New Password"
+msgstr "Vali uus parool"
+
+#: personalize-login.php:251 personalize-login.php:300
+#: personalize-login.php:330
+msgid "You are already signed in."
+msgstr "Olete juba sisse logitud."
+
+#: personalize-login.php:349
+msgid "Invalid password reset link."
+msgstr "Sobimatu parooli lähtestamise link."
+
+#: personalize-login.php:475
+msgid "Hello!"
+msgstr "Tere!"
+
+#: personalize-login.php:476
+#, php-format
+msgid ""
+"You asked us to reset your password for your account using the email address "
+"%s."
+msgstr ""
+"Küsisite parooli lähtestamist oma kontole mis kasutab järgnevat e-maili "
+"aadressi %s."
+
+#: personalize-login.php:477
+msgid ""
+"If this was a mistake, or you didn't ask for a password reset, just ignore "
+"this email and nothing will happen."
+msgstr ""
+"Kui see oli viga, või sa ei küsinud parooli lähtestamist, lihtsalt Ignoreeri "
+"seda kirja ja midagi ei juhtu."
+
+#: personalize-login.php:478
+msgid "To reset your password, visit the following address:"
+msgstr "Parooli lähtestamiseks klõpsake järgmisel lingil:"
+
+#: personalize-login.php:480
+msgid "Thanks!"
+msgstr "Aitäh!"
+
+#: personalize-login.php:516
+msgid "You do have an email address, right?"
+msgstr "Unustasite sisestada e-posti."
+
+#: personalize-login.php:519
+msgid "You need to enter a password to login."
+msgstr "Sisselogimiseks peate sisestama parooli."
+
+#: personalize-login.php:523
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+"Meil pole sellist e-posti aadressi/kasutajanime andmebaasis. Võib-olla "
+"kasutasite registreerumisel teist?"
+
+#: personalize-login.php:529
+#, php-format
+msgid ""
+"The password you entered wasn't quite right. <a href=%s>Did you forget your "
+"password?</a>"
+msgstr ""
+"Sisestatud parool ei olnud päris õige. <a href=‘%s’> Kas unustasite oma "
+"parooli </a>?"
+
+#: personalize-login.php:537
+msgid "You need to enter your email address to continue."
+msgstr "Jätkamiseks peate sisestama oma e-posti aadressi."
+
+#: personalize-login.php:541
+msgid "There are no users registered with this email address."
+msgstr "Selle e-posti aadressiga ei ole registreeritud kasutajaid."
+
+#: personalize-login.php:547
+msgid "The password reset link you used is not valid anymore."
+msgstr "Kasutatav parooli lähtestamise link enam ei kehti."
+
+#: personalize-login.php:550
+msgid "The two passwords you entered don't match."
+msgstr "Teie sisestatud kaks parooli ei sobi kokku."
+
+#: personalize-login.php:553
+msgid "Sorry, we don't accept empty passwords."
+msgstr "Kahjuks ei võta me tühiseid paroole vastu."
+
+#: personalize-login.php:559
+msgid "An unknown error occurred. Please try again later."
+msgstr "Ilmnes tundmatu viga. Palun proovi hiljem uuesti."
+
+#: templates/login_form.php:19
+msgid "You have signed out. Would you like to sign in again?"
+msgstr "Olete välja logitud. Kas soovite uuesti sisse logida?"
+
+#: templates/login_form.php:27
+#, php-format
+msgid ""
+"You have successfully registered to <strong>%s</strong>. We have emailed "
+"your password to the email address you entered."
+msgstr ""
+"Olete edukalt registreerunud aadressil <strong>%s</strong>. Saatsime teie "
+"parooli sisestatud e-posti aadressile."
+
+#: templates/login_form.php:36
+msgid "Check your email for a link to reset your password."
+msgstr "Kontrollige oma e-posti aadressi parooli lähtestamiseks."
+
+#: templates/login_form.php:42
+msgid "Your password has been changed. You can sign in now."
+msgstr "Teie parool on muudetud. Saate nüüd sisse logida."
+
+#: templates/login_form.php:49 templates/login_form.php:63
+#: templates/password_lost_form.php:18
+msgid "Email"
+msgstr "E-post"
+
+#: templates/login_form.php:67
+msgid "Password"
+msgstr "Parool"
+
+#: templates/password_lost_form.php:14
+msgid ""
+"Enter your email address and we will send you a link to pick a new password."
+msgstr ""
+"Sisestage oma e-posti aadress ja saadane teile lingi, et valida uus parool."
+
+#: templates/password_lost_form.php:24 templates/password_reset_form.php:31
+msgid "Reset Password"
+msgstr "Lähtesta parool"
+
+#: templates/password_reset_form.php:19
+msgid "New password"
+msgstr "Uus parool"
+
+#: templates/password_reset_form.php:23
+msgid "Repeat new password"
+msgstr "Korda uut parooli"
+
+#. Plugin Name of the plugin/theme
+msgid "Personalize Login"
+msgstr "Personalize Login"
+
+#. Description of the plugin/theme
+msgid "A plugin that replaces the WordPress login flow with a custom page."
+msgstr "A plugin that replaces the WordPress login flow with a custom page."
+
+#. Author of the plugin/theme
+msgid "E.T"
+msgstr "E.T"
