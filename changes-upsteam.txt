@@ -1,0 +1,76 @@
+25-01-18
+plugins\upsteam-booking-system\assets\js\usbs-booking.js:
+
+old code
+var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+new code
+var days = ['pühapäev', 'esmaspäev', 'teisipäev', 'kolmapäev', 'neljapäev', 'reede', 'laupäev'];
+
+
+
+plugins\upsteam-booking-system\assets\js\usbs-booking.js
+var locale = "en-us";
+var locale = "et-EE";
+
+
+-----------
+
+plugins\upsteam-booking-system\assets\js\usbs-booking.js
+
+$('#car-licence').change(function(){
+				$('.service-side-licence').show();
+				$('#side-licence').text($(this).val());
+});
+
+$('#car-mark').change(function(){
+				$('.service-side-mark').show();
+				$('#side-model').text($(this).val());
+});
+
+$('#car-name').change(function(){
+				$('.service-side-nick').show();
+				$('#side-nick').text($(this).val());
+});
+
+
+plugins\upsteam-booking-system\assets\css\usbs-booking.css
+
+	.service-side-licence, .service-side-mark, .service-side-nick {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 3.35;
+    text-align: center;
+    color: #ffffff;
+    display: block;
+}
+
+
+plugins\upsteam-booking-system\templates\public\booking\parts\sidebar.php
+
+		<div class="col-md-12 service-side-licence text-center" style="display:none;">
+			Auto reg. nr : <span id="side-licence"></span> 
+		</div>	
+		<div class="col-md-12 service-side-mark text-center" style="display:none;">
+			Mark/Mudel/Värv : <span id="side-model"></span> 
+		</div>	
+		<div class="col-md-12 service-side-nick text-center" style="display:none;">
+			Auto hüüdnimi : <span id="side-nick"></span> 
+		</div>	
+
+
+-----------------------kayyum----------------------------
+
+plugins\upsteam-booking-system\assets\js\usbs-booking.js
+	
+	1. change condition for payment not work for trial step 
+		else if((id == 'step-8-nav' && usbsPackagesType=="trial"))
+
+plugins\upsteam-booking-system\templates\public\booking\parts\sidebar.php
+
+	2.  add car icon before model number in sidebar
+
+
+
+
+
